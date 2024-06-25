@@ -16,4 +16,4 @@ A locally hosted web system designed for the barangay health center to provide a
 - MySQL
 
 ### License
-AdminLTE is an open-source project by AdminLTE.io that is licensed under MIT.
+AdminLTE is an open-source project by [AdminLTE.io](https://adminlte.io/) that is licensed under [MIT](https://opensource.org/license/MIT).
