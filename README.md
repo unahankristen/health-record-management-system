@@ -1,6 +1,7 @@
 ### Health Record Management System
 A locally hosted web system designed for the barangay health center to provide an effective way to store and manage health records, specifically the target client list (TCL) for the intended residents who are eligible for health services.
 
+
 ### Modules
 - TCL Dashboard
 ![sd-dashboard](https://github.com/user-attachments/assets/2bdfe519-1018-4458-b0c9-0b07477fd8ef)
@@ -9,7 +10,8 @@ A locally hosted web system designed for the barangay health center to provide a
 - Health Services List 
 ![sd-immunization](https://github.com/user-attachments/assets/c1366636-c47a-4ec5-a8ab-ff8d4fbd3dec)
 - Report Generation
-![sd-immunization](https://github.com/user-attachments/assets/d5bcaa92-4343-41e5-b0d6-dd36fccd41ce)
+![Screenshot (73)](https://github.com/user-attachments/assets/c8d60189-1660-4aac-8679-5a84d981ae33)
+
 
 ### Features
 - User authentication
