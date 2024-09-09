@@ -7,6 +7,20 @@ A locally hosted web system designed for the barangay health center to provide a
 - Health Services List 
 - Report Generation
 
+![sd-dashboard](https://github.com/user-attachments/assets/2bdfe519-1018-4458-b0c9-0b07477fd8ef)
+- TCL Dashboard
+![sd-clientlist](https://github.com/user-attachments/assets/97b1d4e1-6c12-45e0-ace0-e5c377b92d5c)
+- Client List
+![sd-immunization](https://github.com/user-attachments/assets/c1366636-c47a-4ec5-a8ab-ff8d4fbd3dec)
+- Health Services List
+![sd-immunization](https://github.com/user-attachments/assets/d5bcaa92-4343-41e5-b0d6-dd36fccd41ce)
+- Report Generation
+
+### Features
+- User authentication
+- Search bar
+- Historical data
+
 ### Technologies used
 - AdminLTE 3 Bootstrap Theme
 - HTML
