@@ -13,7 +13,7 @@ A locally hosted web system designed for the barangay health center to provide a
 ![Screenshot (73)](https://github.com/user-attachments/assets/c8d60189-1660-4aac-8679-5a84d981ae33)
 
 
-### Features
+### Other features
 - User authentication
 - Search bar
 - Historical data
