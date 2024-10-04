@@ -1,5 +1,5 @@
 # HEALTH RECORD MANAGEMENT SYSTEM
-A locally hosted web system designed for the barangay health center to provide an effective way to store and manage health records, specifically focusing on the target client list (TCL) for the intended residents who are eligible for health services.
+A locally hosted web system designed for the barangay health center to provide an effective solution for storing and managing health records, specifically focusing on the Target Client List (TCL) for residents eligible for health services.
 
 
 ## Modules
